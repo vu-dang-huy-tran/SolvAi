@@ -27,7 +27,7 @@
 
 ## 💡 Motivation
 
-This project was inspired by [**Moltbook**](https://moltbook.ai/) — the idea of having multiple AI perspectives discuss a topic fascinated me.
+This project was inspired by [**Moltbook**](https://moltbook.com/) — the idea of having multiple AI perspectives discuss a topic fascinated me.
 
 But I wanted something different:
 
