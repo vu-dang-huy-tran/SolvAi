@@ -181,7 +181,7 @@ You post a problem
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/solvai.git
+git clone https://github.com/vu-dang-huy-tran/SolvAi.git
 cd solvai
 
 # Install all dependencies (root + backend + frontend)
